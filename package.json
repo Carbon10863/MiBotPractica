@@ -1,0 +1,11 @@
+{
+  "name": "mibotpractica",
+  "version": "1.0.0",
+  "description": "Bot de práctica para detectar enlaces de YouTube y TikTok",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carbon10863",
+  "license": "MIT"
+}
